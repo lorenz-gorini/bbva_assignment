@@ -1,0 +1,5 @@
+pandas==2.0
+psycopg2_binary==2.9
+jupyterlab==4.0
+scikit-learn==1.2
+bokeh==3.1
