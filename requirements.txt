@@ -3,3 +3,5 @@ psycopg2-binary==2.9.6
 jupyterlab==4.0
 scikit-learn==1.2
 bokeh==3.1
+graphviz==0.20.1
+anytree==2.8.0
